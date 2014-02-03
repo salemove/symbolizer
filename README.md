@@ -1,5 +1,5 @@
 # Symbolizer
-[![Build Status](https://secure.travis-ci.org/salemove/symbolizer.png?branch=master)](http://travis-ci.org/salemove/symbolizer)
+[![Build Status](https://travis-ci.org/salemove/symbolizer.png?branch=master)](https://travis-ci.org/salemove/symbolizer)
 [![Code Climate](https://codeclimate.com/github/salemove/symbolizer.png)](https://codeclimate.com/github/salemove/symbolizer)
 
 ```ruby
