@@ -1,4 +1,6 @@
 # Symbolizer
+[![Build Status](https://secure.travis-ci.org/salemove/symbolizer.png?branch=master)](http://travis-ci.org/salemove/symbolizer)
+[![Code Climate](https://codeclimate.com/github/salemove/symbolizer.png)](https://codeclimate.com/github/salemove/symbolizer)
 
 ```ruby
   Symbolizer.symbolize({'a' => {'b' => 'c'}}) # => {a: {b: 'c'}}
